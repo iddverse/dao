@@ -1,0 +1,7 @@
+To connect idd.x to GitHub Pages:
+
+1. Set a CNAME record to: <your-username>.github.io
+2. Or use an A record to GitHub Pages IPs: 185.199.108.153, .154, .155, .156
+3. Add a file named 'CNAME' with 'idd.x' inside the repository root if using Pages.
+
+For ENS/IPFS, consider using services like Fleek or Web3Host.

@@ -1,0 +1,8 @@
+{
+  "token": "IDD Token",
+  "chain": "SUI",
+  "quorum": "10%",
+  "threshold": "67%",
+  "voting_duration": "5 days",
+  "voting_interface": "https://vote.idd.x"
+}
